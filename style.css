@@ -1,0 +1,26 @@
+* {
+    font-family: Calibri;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none;
+}
+body {
+background-color: #262323;
+}
+
+.time-box {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#time {
+    color: #e5dede;
+    padding: 10px 20px;
+    text-align: center;
+
+    font-size: 84px;
+}
